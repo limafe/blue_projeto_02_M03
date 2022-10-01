@@ -18,4 +18,4 @@ module.exports = class Character {
       imageUrl: this.imageUrl,
     };
   }
-}
+};

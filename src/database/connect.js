@@ -10,4 +10,4 @@ module.exports = class MongoConnection {
       .then(() => console.log("Connected to Database"))
       .catch((err) => console.log("Error: " + err));
   }
-}
+};

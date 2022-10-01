@@ -22,4 +22,4 @@ module.exports = class User {
       photo: this.photo,
     };
   }
-}
+};
