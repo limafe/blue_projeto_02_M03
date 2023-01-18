@@ -1,1 +1,1 @@
-# teste
+# PROJETO 02 - RICK AND MORTY API
