@@ -11,7 +11,7 @@
   },
   "servers": [
     {
-      "url": "https://api-rick-and-morty-blueedtech.onrender.com/docs",
+      "url": "https://api-rick-and-morty-blueedtech.onrender.com",
       "description": "Production API Render"
     },
 
