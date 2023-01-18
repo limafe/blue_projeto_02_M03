@@ -12,7 +12,7 @@
   "servers": [
     {
       "url": "https://api-rick-and-morty-blueedtech.onrender.com/docs",
-      "description": "Production API Heroku Render"
+      "description": "Production API Render"
     },
 
     {
