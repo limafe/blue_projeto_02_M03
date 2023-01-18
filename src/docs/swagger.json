@@ -11,12 +11,17 @@
   },
   "servers": [
     {
+      "url": "https://api-rick-and-morty-blueedtech.onrender.com/docs",
+      "description": "Production API Heroku Render"
+    },
+
+    {
       "url": "http://localhost:3001",
       "description": "Test and development API"
     },
     {
       "url": "https://rick-and-morty-felipe.herokuapp.com",
-      "description": "Production API"
+      "description": "Production API Heroku"
     }
   ],
   "paths": {
